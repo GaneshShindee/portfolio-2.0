@@ -90,6 +90,7 @@ section{
 
 .home-img{
     width:35vw ;
+  border-radius: 50%;
 }
 
 .home-content h3{
@@ -114,6 +115,7 @@ span{
 
 .home-img{
     width:35vw ;
+  border-radius: 50%;
 }
 
 .home-content p{
@@ -170,6 +172,7 @@ span{
 
 .about-img{
     width: 35vw;
+  border-radius: 50%;
 }
 
 
